@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.66641593.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.03080d89.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.03080d89.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.c45091ad.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.c45091ad.js.map",
+    "static/js/2.52962e0a.chunk.js": "/react-portfolio/static/js/2.52962e0a.chunk.js",
+    "static/js/2.52962e0a.chunk.js.map": "/react-portfolio/static/js/2.52962e0a.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.66641593.chunk.css.map": "/react-portfolio/static/css/main.66641593.chunk.css.map",
+    "static/js/2.52962e0a.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.52962e0a.chunk.js.LICENSE.txt",
+    "static/media/fitnesstracker.0f66ba9a.jpg": "/react-portfolio/static/media/fitnesstracker.0f66ba9a.jpg",
+    "static/media/lunchables.0c768201.jpg": "/react-portfolio/static/media/lunchables.0c768201.jpg",
+    "static/media/najuasaad.640a68fb.jpg": "/react-portfolio/static/media/najuasaad.640a68fb.jpg",
+    "static/media/notetaker.9129ece0.jpg": "/react-portfolio/static/media/notetaker.9129ece0.jpg",
+    "static/media/progressivebudget.7270e355.jpg": "/react-portfolio/static/media/progressivebudget.7270e355.jpg",
+    "static/media/studybuddy.aaf0035f.jpg": "/react-portfolio/static/media/studybuddy.aaf0035f.jpg",
+    "static/media/userdirectory.2970b147.jpg": "/react-portfolio/static/media/userdirectory.2970b147.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c45091ad.js",
+    "static/js/2.52962e0a.chunk.js",
+    "static/css/main.66641593.chunk.css",
+    "static/js/main.03080d89.chunk.js"
+  ]
+}
