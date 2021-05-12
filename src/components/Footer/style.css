@@ -1,0 +1,10 @@
+:root{
+  --teal: #5db9b2;
+  --yellow: #F8B229;
+  --orange: #e27822;
+  --brown: #412929;
+}
+
+li {
+  color: white;
+}

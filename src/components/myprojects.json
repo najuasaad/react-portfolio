@@ -1,0 +1,44 @@
+[
+  {
+    "repo": "https://github.com/najuasaad/How-Many-Lunchables",
+    "deployed": "https://erheltemes.github.io/us_representative_lunchables/",
+    "image": "./images/lunchables.jpg",
+    "project": "LUNCHABLES",
+    "description": "How Many Lunchables? uses an interactive map to find U.S. Reps and compare their net worths with that of their constituents in an interesting way "
+  },
+  {
+    "repo": "https://github.com/najuasaad/StudyBuddy",
+    "deployed": "https://mysterious-bayou-93387.herokuapp.com/",
+    "image": "./images/studybuddy.jpg",
+    "project": "STUDY BUDDY",
+    "description": "A database and route centered project that allows users to keep track of notes, interactively plan sessions with other users, and locate via an API"
+  },
+  {
+    "repo": "https://github.com/najuasaad/user-directory",
+    "deployed": "https://najuasaad.github.io/user-directory/",
+    "image": "../images/userdirectory.jpg",
+    "project": "USER DIRECTORY",
+    "description": "A react built directory that generates random users from an API"
+  },
+  {
+    "repo": "https://github.com/najuasaad/Note-Taker",
+    "deployed": "https://hidden-oasis-72157.herokuapp.com/",
+    "image": "./images/notetaker.jpg",
+    "project": "NOTE TAKER",
+    "description": "Heroku Express.js Note Taking App"
+  },
+  {
+    "repo": "https://github.com/najuasaad/Fitness-Tracker",
+    "deployed": "https://fast-springs-37663.herokuapp.com/",
+    "image": "./images/fitnesstracker.jpg",
+    "project": "FITNESS TRACKER",
+    "description": "React and MongoDB Fitness Tracker on Heroku"
+  },
+  {
+    "repo": "https://github.com/najuasaad/progressive-budget",
+    "deployed": "https://calm-escarpment-52698.herokuapp.com/",
+    "image": "./images/progressivebudget.jpg",
+    "project": "PROGRESSIVE BUDGET",
+    "description": "Progressive Budget PWA Heroku Application"
+  }
+]

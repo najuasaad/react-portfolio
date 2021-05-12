@@ -1,0 +1,29 @@
+:root{
+  --teal: #5db9b2;
+  --yellow: #F8B229;
+  --orange: #e27822;
+  --brown: #412929;
+}
+
+h1 {
+  font-family: 'Monoton', cursive;
+  font-size: 60px;
+  padding:50px;
+  text-align: center;
+  color: var(--brown);
+  background-color: var(--yellow)
+}
+
+/* Large smartphones - navbar changes color */
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 40px
+  }
+}
+
+/* Small smartphones - image placeholders change color */
+@media screen and (max-width: 576px) {
+  h1 {
+    font-size: 40px
+  }
+}

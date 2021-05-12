@@ -1,0 +1,117 @@
+:root{
+  --teal: #5db9b2;
+  --yellow: #F8B229;
+  --orange: #e27822;
+  --brown: #412929;
+}
+
+.ficon {
+  font-size: 32px;
+  color: var(--teal)
+}
+
+.yicon {
+  font-size: 28px;
+  color: var(--yellow)
+}
+
+p {
+  color: var(--teal)
+}
+
+.yellow {
+  color: var(--yellow)
+}
+
+.orange {
+  color: var(--orange)
+}
+
+.black {
+  color: black
+}
+
+.projectCard {
+  width: auto;
+  padding: 10px;
+  margin: 10px;
+}
+
+.projImage {
+  max-height: auto;
+  max-width: auto
+}
+
+.codeIcon {
+  bottom: 40px;
+  left: 10px;
+}
+
+.depIcon {
+  bottom: 70px;
+  left: 50px;
+}
+
+.title {
+  font-family: 'Monoton', cursive;
+  font-size: 30px;
+  padding: 5px;
+  text-align: center;
+  color: var(--brown);
+  background-color: var(--teal)
+}
+
+/* Large smartphones - navbar changes color */
+@media screen and (max-width: 1004px) {
+  li {
+    position: fixed;
+    bottom: 8px;
+  }
+
+  li.a {
+    left: 400px;
+  }
+
+  li.b {
+    left: 500px;
+  }
+
+  li.c {
+    left: 600px;
+  }
+}
+
+
+/* Large smartphones - navbar changes color */
+@media screen and (max-width: 768px) {
+  .me {
+    max-height: 200px;
+    max-width: auto;
+  }
+
+  .title {
+    font-size: 25px;
+  } 
+
+  p {
+    font-size: 14px;
+  }
+
+  li {
+    position: fixed;
+    bottom: 8px;
+  }
+
+  li.a {
+    left: 75px;
+  }
+
+  li.b {
+    left: 175px;
+  }
+
+  li.c {
+    left: 275px;;
+  }
+}
+
