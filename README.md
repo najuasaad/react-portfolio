@@ -30,7 +30,7 @@ ES Lint
 
 [Repo](https://github.com/najuasaad/react-portfolio)
 
-[Deployed](https://najuasaad.github.io/)
+[Deployed](https://najuasaad.github.io/react-portfolio)
 
 ## Screenshots
 
