@@ -21,7 +21,7 @@ function About() {
             I am a full-stack developer with experience in HTML, CSS, JS, Bootstrap, Node, Express, MySQL, MongoDB, React, and MERN. 
           </p>
           <p className="mb-5">
-            I really love working with databases, React, and front end style. I recently completed the University of Minnesota's coding program. I'm currently learning more about creating functional apps for mobile devices in my spare time.
+            I love working with databases, React, and front end style. I recently completed the University of Minnesota's coding program. I'm currently learning more about creating functional apps for mobile devices in my spare time.
           </p>
         </div>
       </div>
