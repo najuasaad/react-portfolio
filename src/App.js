@@ -1,8 +1,7 @@
 import React from "react";
-// import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
-// style stuff
+// style
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab, faGithub } from '@fortawesome/free-brands-svg-icons'
 import { faFileCode, faWindowRestore } from '@fortawesome/free-solid-svg-icons'
